@@ -21,8 +21,7 @@ V1.0 Antenna Adapter PCB
 
 For the next step i wanted to take an already known Antenna design from a Keyfob that i knew operated at 13.56Mhz and make it easy to solder and add smd resistors.  Since the 0603 package is difficult to hand solder using a Hotplate to solder these components should save time and make it simple.  The initial PCB design should be relatively compact enough to fit in the Antenna void to keep thickness as low as possible.  Also printing on Flex PCB should make for super thin applications.
 
-<img src="https://github.com/Hamspiced/NFC-Resonant-Frequency-Amplifier/blob/main/Images/FR4%20Adapter.jpg" width="400"> 
-<img src="https://github.com/Hamspiced/NFC-Resonant-Frequency-Amplifier/blob/main/Images/Flex%20Adapter.jpg" width="400">
+<img src="https://github.com/Hamspiced/NFC-Resonant-Frequency-Amplifier/blob/main/Images/FR4%20Adapter.jpg" width="400"> <img src="https://github.com/Hamspiced/NFC-Resonant-Frequency-Amplifier/blob/main/Images/%20Flex%20Adapter.jpg" width="400">
 
 Next was to add the antenna from a working NFC fob.  
 
