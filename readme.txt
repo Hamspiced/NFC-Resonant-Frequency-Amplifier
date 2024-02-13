@@ -22,3 +22,4 @@ For the next step i wanted to take an already known Antenna design from a Keyfob
 ![FR4 Adapter](/Images/FR4%20Adapter.jpg) 
 ![Flex Adapter](https://github.com/Hamspiced/NFC-Resonant-Frequency-Amplifier/blob/4f4041cc882cb0ae047ec7cf25064377c4f2dd6d/Images/%20Flex%20Adapter.jpg "Flex Adapter")
 ![Employees-Burnout-Analysis-and-Prediction](Images/%20Flex%20Adapter.jpg?raw=true)
+![Logo](https://github.com/AxelFougues/ZINC-public-resources/blob/main/Branding/Banner.png)
