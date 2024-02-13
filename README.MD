@@ -10,7 +10,7 @@ Proof of concept.
 Magnet Wire coil with a capacitor to test.
 Using online calculators i determined my .5mm magnet wire wrapped 5 times at 50mm width should be resonant at 13.56mhz.
 
-![V0.1](/Images/v0-1%20antenna%20test.jpg)
+![V0.1](/Images/v0-1%20antenna%20test.jpg width=50)
 
 Tuning was successfull
 ![V0.1 Tuned](/Images/Raw%20NFC%20Chip%20Tuning.jpg)
