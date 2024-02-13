@@ -10,7 +10,7 @@ Proof of concept.
 Magnet Wire coil with a capacitor to test.
 Using online calculators i determined my .5mm magnet wire wrapped 5 times at 50mm width should be resonant at 13.56mhz.
 
-<img src="https://github.com/Hamspiced/NFC-Resonant-Frequency-Amplifier/blob/4f4041cc882cb0ae047ec7cf25064377c4f2dd6d/Images/%20Flex%20Adapter.jpg" width="100" height="100">
+<img src="https://github.com/Hamspiced/NFC-Resonant-Frequency-Amplifier/blob/4f4041cc882cb0ae047ec7cf25064377c4f2dd6d/Images/%20Flex%20Adapter.jpg" width="200">
 ![V0.1](/Images/v0-1%20antenna%20test.jpg width="50")
 
 Tuning was successfull
