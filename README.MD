@@ -13,6 +13,7 @@ Using online calculators i determined my .5mm magnet wire wrapped 5 times at 50m
 <img src="https://github.com/Hamspiced/NFC-Resonant-Frequency-Amplifier/blob/main/Images/v0-1%20antenna%20test.jpg" width="400">
 
 Tuning was successfull
+
 <img src="https://github.com/Hamspiced/NFC-Resonant-Frequency-Amplifier/blob/main/Images/V0%20Antenna%20Tuning.jpg" width="400">
 
 
