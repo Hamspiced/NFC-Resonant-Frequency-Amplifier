@@ -41,6 +41,7 @@ Moving on to V2.0
 The idea is to incorporate the designs into a printed PCB.  Using the traces as an antenna.
 
 Overall design is almost complete.  awaiting prototypes for testing.
+
 <img src="https://github.com/Hamspiced/NFC-Resonant-Frequency-Amplifier/blob/main/Images/V2prototype.png" width="400">
 
 
