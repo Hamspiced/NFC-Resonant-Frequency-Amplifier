@@ -8,9 +8,9 @@
 
 |         Version         |                                                    Product Link                                                       |                  Gerber Files                    |
 | ----------------------- | --------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------ |
-| V1 DIY Antenna Adapter  | [Tindie V1 DIY Antenna Adapter](https://www.tindie.com/products/hamspiced/rfid-antenna-adapter-for-tuning-antennas/)  | [V1 Gerber](https://www.github.com/hamspiced)    |
-| V1 Repeater             | [Tindie V1 Repeater](https://www.tindie.com/products/hamspiced/rfid-antenna-adapter-for-tuning-antennas/)             | [V1 Gerber](https://www.github.com/hamspiced)    |
-| V2.1 Repeater PCB       | [Tindie V2.1 Repeater PCB](https://www.tindie.com/products/hamspiced/1356mhz-nfc-amplifier-v2/)                       | [V2.1 Gerber](https://www.github.com/hamspiced)  |
+| V1 DIY Antenna Adapter  | [Tindie V1 DIY Antenna Adapter](https://www.tindie.com/products/hamspiced/rfid-antenna-adapter-for-tuning-antennas/)  | [V1 Gerber](https://github.com/Hamspiced/NFC-Resonant-Frequency-Amplifier/blob/main/Gerber%20Files/V1AntennaAdapter.zip)    |
+| V1 Repeater             | [Tindie V1 Repeater](https://www.tindie.com/products/hamspiced/rfid-antenna-adapter-for-tuning-antennas/)             |     |
+| V2.1 Repeater PCB       | [Tindie V2.1 Repeater PCB](https://www.tindie.com/products/hamspiced/1356mhz-nfc-amplifier-v2/)                       | [V2.1 Gerber](https://github.com/Hamspiced/NFC-Resonant-Frequency-Amplifier/blob/main/Gerber%20Files/V2-1Repeater.zip)  |
 | V2.1s Small Repeater    | [Tindie V2.1s Small Repeater](https://www.tindie.com/products/hamspiced/rfid-antenna-adapter-for-tuning-antennas/)    | [V2.1s Gerber](https://www.github.com/hamspiced) |
 
 </details>
