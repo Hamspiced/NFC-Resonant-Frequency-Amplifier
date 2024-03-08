@@ -52,8 +52,7 @@ I soldered a 22pf Capacitor to the Tuning adapter, soldered one lead to the adap
 <img src="https://github.com/Hamspiced/NFC-Resonant-Frequency-Amplifier/blob/main/Images/Soldered%20Antenna%20to%20adapter.jpg" width="400">
 
 V1 Antenna Adapters for DIY are now available on my Tindie Store:
-[Tindie V1 Antenna Adapter](https://www.tindie.com/products/hamspiced/rfid-antenna-adapter-for-tuning-antennas/)
-V1 Antenna Adapter© 2024 by Joseph Nicholas Gambino is licensed under[![CC BY-NC-SA 4.0][cc-by-nc-sa-shield]][cc-by-nc-sa]
+[Tindie V1 Antenna Adapter](https://www.tindie.com/products/hamspiced/rfid-antenna-adapter-for-tuning-antennas/) [![CC BY-NC-SA 4.0][cc-by-nc-sa-shield]][cc-by-nc-sa]
 
 
 V1 Repeaters are now available on my Tindie Store:
@@ -88,8 +87,7 @@ Testing with the proper capacitor yielded excellent results
 
 With this run of larger FR4 components reaching a satisfactory level i will start offering these on my Tindie store:
 
-[Tindie V2.1 Repeater PCB](https://www.tindie.com/products/hamspiced/1356mhz-nfc-amplifier-v2/)
-V2.1 13.56mhz NFC Repeater© 2024 by Joseph Nicholas Gambino is licensed under[![CC BY-NC-SA 4.0][cc-by-nc-sa-shield]][cc-by-nc-sa]
+[Tindie V2.1 Repeater PCB](https://www.tindie.com/products/hamspiced/1356mhz-nfc-amplifier-v2/) [![CC BY-NC-SA 4.0][cc-by-nc-sa-shield]][cc-by-nc-sa]
 
 
 # V2.1s PCB Integrated Antenna with Smaller Footprint
