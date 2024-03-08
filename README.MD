@@ -1,4 +1,4 @@
-#Project Repository for the Resonant Repeater Project
+# Project Repository for the Resonant Repeater Project
 
 
 
@@ -15,12 +15,12 @@
 
 </details>
 
-#Goal
+# Goal
 Create a low-cost adaptable device that can amplify 13.56Mhz frequencies for low power devices, implants, etc.  
 Initial idea is to take already made tuned NFC Chips from Keyfobs, harvest the antenna from them, find out the resonant capacetence, introduce a capacitor and tune as needed.
 
 
-#Proof of Concept
+# Proof of Concept
 
 Magnet Wire coil with a capacitor to test.
 Using online calculators i determined my .5mm magnet wire wrapped 5 times at 50mm width should be resonant at 13.56mhz.
@@ -32,7 +32,7 @@ Tuning was successfull
 <img src="https://github.com/Hamspiced/NFC-Resonant-Frequency-Amplifier/blob/main/Images/V0%20Antenna%20Tuning.jpg" width="400">
 
 
-#V1.0 Antenna Adapter PCB
+# V1.0 Antenna Adapter PCB
 ---
 For the next step i wanted to take an already known Antenna design from a Keyfob that i knew operated at 13.56Mhz and make it easy to solder and add smd resistors.  Since the 0603 package is difficult to hand solder using a Hotplate to solder these components should save time and make it simple.  The initial PCB design should be relatively compact enough to fit in the Antenna void to keep thickness as low as possible.  Also printing on Flex PCB should make for super thin applications.
 
@@ -68,7 +68,7 @@ Overall design is almost complete.  awaiting prototypes for testing.
 <img src="https://github.com/Hamspiced/NFC-Resonant-Frequency-Amplifier/blob/main/Images/V2prototype.png" width="400">
 
 
-#V2.0/V2.1 PCB Integrated Antenna 
+# V2.0/V2.1 PCB Integrated Antenna 
 ---
 First Designs came back.  
 
@@ -86,7 +86,7 @@ With this run of larger FR4 components reaching a satisfactory level i will star
 [Tindie V2.1 Repeater PCB](https://www.tindie.com/products/hamspiced/1356mhz-nfc-amplifier-v2/)
 
 
-#V2.1s PCB Integrated Antenna with Smaller Footprint
+# V2.1s PCB Integrated Antenna with Smaller Footprint
 ---
 >Versioning will append an S to indicate smaller footprint but overall same design
 
@@ -102,7 +102,7 @@ I dont think i could be more impressed.  Prototype was a success out of the gate
 
 Debating putting this footprint up on tindie.
 
-##V3.01 PCB Integrated Antenna with Integrated capacitance on Flex
+# V3.01 PCB Integrated Antenna with Integrated capacitance on Flex
 
 Design is going to begin testing on an integrated capacitance circuit using flex.  With the help of Satur9 i hope we can take his knowledge of integrated capacitance using copper plate layers and apply it to our project.  Flex runs in testing are going to be expensive.  I hope to reduce the number of prototype runs by incorporating "trial by error sheet runs"
 
