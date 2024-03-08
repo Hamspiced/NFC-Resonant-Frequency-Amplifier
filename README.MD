@@ -1,4 +1,7 @@
-##Project Repository for the Resonant Repeater Project
+#Project Repository for the Resonant Repeater Project
+
+
+
 
 <details open>
 <summary>Avaible For Purchase</summary>
@@ -12,12 +15,12 @@
 
 </details>
 
-Goal:
+#Goal
 Create a low-cost adaptable device that can amplify 13.56Mhz frequencies for low power devices, implants, etc.  
 Initial idea is to take already made tuned NFC Chips from Keyfobs, harvest the antenna from them, find out the resonant capacetence, introduce a capacitor and tune as needed.
 
 
-Proof of concept.
+#Proof of Concept
 
 Magnet Wire coil with a capacitor to test.
 Using online calculators i determined my .5mm magnet wire wrapped 5 times at 50mm width should be resonant at 13.56mhz.
@@ -29,8 +32,8 @@ Tuning was successfull
 <img src="https://github.com/Hamspiced/NFC-Resonant-Frequency-Amplifier/blob/main/Images/V0%20Antenna%20Tuning.jpg" width="400">
 
 
-##V1.0 Antenna Adapter PCB
-
+#V1.0 Antenna Adapter PCB
+---
 For the next step i wanted to take an already known Antenna design from a Keyfob that i knew operated at 13.56Mhz and make it easy to solder and add smd resistors.  Since the 0603 package is difficult to hand solder using a Hotplate to solder these components should save time and make it simple.  The initial PCB design should be relatively compact enough to fit in the Antenna void to keep thickness as low as possible.  Also printing on Flex PCB should make for super thin applications.
 
 <img src="https://github.com/Hamspiced/NFC-Resonant-Frequency-Amplifier/blob/main/Images/FR4%20Adapter.jpg" width="400"> <img src="https://github.com/Hamspiced/NFC-Resonant-Frequency-Amplifier/blob/main/Images/%20Flex%20Adapter.jpg" width="400">
@@ -65,8 +68,8 @@ Overall design is almost complete.  awaiting prototypes for testing.
 <img src="https://github.com/Hamspiced/NFC-Resonant-Frequency-Amplifier/blob/main/Images/V2prototype.png" width="400">
 
 
-##V2.0/V2.1 PCB Integrated Antenna 
-
+#V2.0/V2.1 PCB Integrated Antenna 
+---
 First Designs came back.  
 
 I made a blunder in my first setup and had these assembled with a 22pf cap.  This was incorrect and tuning was better with a 30pf capacitor.  This got tuning in the same area.  I immediately ordered another batch in 30pf and will re-version this as V2.1
@@ -83,7 +86,9 @@ With this run of larger FR4 components reaching a satisfactory level i will star
 [Tindie V2.1 Repeater PCB](https://www.tindie.com/products/hamspiced/1356mhz-nfc-amplifier-v2/)
 
 
-##V2.1s PCB Integrated Antenna with Smaller Footprint
+#V2.1s PCB Integrated Antenna with Smaller Footprint
+---
+>Versioning will append an S to indicate smaller footprint but overall same design
 
 With the success of the overall design at satisfactory levels we need to look at the possibility of a smaller circuit design.  Although the current state it works great the overall size is an issue for most applications.  Taking what we know of RFID circuits most nfc tags are about 1 inch in diameter.  So i wanted to redesign our board to fit within those confines.  
 
