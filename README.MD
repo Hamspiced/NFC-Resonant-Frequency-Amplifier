@@ -212,7 +212,8 @@ Below are my readings.
 
 Using this data i was able to create an additional test board zeroing in on around the .0712 radius.
 
-The test board came back and i found Exact tuning at specifically 0.0716 in radius capacitive plates.  This design is going forward to fabrication and i will report back the findings.
+5/24/2024
+The test board came back and i found Exact tuning at specifically 0.0716in radius capacitive plates.  This design is going forward to fabrication and i will report back the findings.
 
 
 [![CC BY-NC-SA 4.0][cc-by-nc-sa-shield]][cc-by-nc-sa]
