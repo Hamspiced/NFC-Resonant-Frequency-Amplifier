@@ -1,5 +1,7 @@
 # Project Repository for the Resonant Repeater Project [![CC BY-NC-SA 4.0][cc-by-nc-sa-shield]][cc-by-nc-sa]
 
+# Support
+If you are interested in my projects and would like to support me or buy me a coffee: http://paypal.me/hamspiced
 
 
 
