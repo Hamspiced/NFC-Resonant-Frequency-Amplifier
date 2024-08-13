@@ -219,6 +219,13 @@ Using this data i was able to create an additional test board zeroing in on arou
 5/24/2024
 The test board came back and i found Exact tuning at specifically 0.0716in radius capacitive plates.  This design is going forward to fabrication and i will report back the findings.
 
+8/13/2024
+The first run of Flex V3 repeaters were a huge success.  After careful thought i am going to hold on to this design for a little while.  I would like to see what others can do in this same space and i feel that if i release the files for these repeaters that creativity will end here with this finished product.  For the capacitive plate design i have opened the doors i believe for a lot of other applications and i would like to see more NFC antenna designs using what i have documented here.  If anyone has any questions on this design please dont hesitate to reach out.  
+
+I have created a tester board with different capacitive plate dimensions to cover a variety of capacetences.  If you are developing a project that can use this please feel free to reach out to me.
+
+I have released production units of my flex design to tindie, as well as created Field detectors using the 2.1S design (You replace the 100pf capacitor with any smd 0603 LED).  Those are also on tindie.  I have also redesigned the 2.1L to a V3L using the capacitive plate design and it is also available on both Tindie as well as Amazon with the links above.
+
 
 [![CC BY-NC-SA 4.0][cc-by-nc-sa-shield]][cc-by-nc-sa]
 
