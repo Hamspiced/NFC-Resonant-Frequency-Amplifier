@@ -14,6 +14,8 @@ If you are interested in my projects and would like to support me or buy me a co
 | V1 Repeater             | [Tindie V1 Repeater](https://www.tindie.com/products/hamspiced/rfid-antenna-adapter-for-tuning-antennas/)             |     | ------------------------------------------------ |
 | V2.1L Repeater PCB       | [Tindie V2.1 Repeater PCB](https://www.tindie.com/products/hamspiced/1356mhz-nfc-amplifier-v2/)                       | [V2.1 Gerber](https://github.com/Hamspiced/NFC-Resonant-Frequency-Amplifier/blob/main/Gerber%20Files/V2-1Repeater.zip)  | [Amazon US V3L Repeater](https://www.amazon.com/dp/B0D8WMCYDH) |
 | V2.1s Small Repeater    | [Tindie V2.1s Small Repeater](https://www.tindie.com/products/hamspiced/1356mhz-nfc-amplifierrepeater-small-v21s/)    | [V2.1s Gerber](https://github.com/Hamspiced/NFC-Resonant-Frequency-Amplifier/blob/main/Gerber%20Files/V2-1SRepeater.zip) | ------------------------------------------------ |
+| V3 Flex Repeater    | [Tindie V3 Flex Repeater](https://www.tindie.com/products/hamspiced/flex-nfc-repeaters-1356mhz-range-extenders/)    | Not Released to Creative Commons | ------------------------------------------------ |
+| Field Detectors    | [Tindie V2.1 Field Detector](https://www.tindie.com/products/hamspiced/1356mhz-field-detectersrepeater-locator/)    | [V2.1s Gerber](https://github.com/Hamspiced/NFC-Resonant-Frequency-Amplifier/blob/main/Gerber%20Files/V2-1SRepeater.zip) Replaced 100pf Capacitor with smd 0603 LED | ------------------------------------------------ |
 
 </details>
 
