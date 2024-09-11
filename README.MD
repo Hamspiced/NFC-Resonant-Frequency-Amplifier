@@ -3,6 +3,9 @@
 # Support
 If you are interested in my projects and would like to support me or buy me a coffee: http://paypal.me/hamspiced
 
+For Licensing, Bulk or Custom orders feel free to contact me at: Hamspiced@gmail.com
+
+For a video review by Deviant Ollam: https://youtu.be/64x2NtmRFpE?si=17tjNadDkAVzWNMu
 
 
 <details open>
