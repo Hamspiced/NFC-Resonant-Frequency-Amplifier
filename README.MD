@@ -2,7 +2,7 @@
 
 #New Website Launch
 
-All of my designs are now available at the new MidwestGadgets.org website!!
+All of my designs are now available at the new https://MidwestGadgets.org website!!
 
 # Support
 If you are interested in my projects and would like to support me or buy me a coffee: http://paypal.me/hamspiced
